@@ -1,0 +1,3 @@
+%'  UNION SELECT customerID FROM customers #
+ou
+%'  UNION SELECT customerID FROM customers -- 
